@@ -1,7 +1,7 @@
 {
   "name": "exceljs-hx",
   "license": "MIT",
-  "tags": ["js","haxe","extern","web","excel","csv","xlsx"],
+  "tags": ["js","haxe","extern","nodejs","excel","csv","xlsx"],
   "description": "Haxe externs for ExcelJs (nodejs)",
   "contributors": ["theo_sabattie"],
   "releasenote": "Release of version 0.8.0",
