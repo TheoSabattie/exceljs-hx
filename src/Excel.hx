@@ -4,7 +4,7 @@ package;
  * ...
  * @author Théo Sabattié
  */
-@:native("require('exceljs')")
+@:jsRequire("exceljs")
 extern class Excel
 {
     

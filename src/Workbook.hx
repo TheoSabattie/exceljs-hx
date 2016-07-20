@@ -1,15 +1,15 @@
 package;
 import stream.CSV;
 import stream.XLSX;
+import Excel;
 
 /**
  * ...
  * @author Théo Sabattié
  */
-@:native("require('exceljs').Workbook")
+@:jsRequire("exceljs", "Workbook")
 extern class Workbook
 {
-
     public function new();
     
     public var creator:String;
