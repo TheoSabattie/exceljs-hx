@@ -8,6 +8,7 @@
 	"version": "0.8.0",
 	"url": "https://github.com/TheoSabattie/exceljs-hx",
     "targets":["js"],
+    "classPath": "src",
 	"dependencies": {
 
 	}
