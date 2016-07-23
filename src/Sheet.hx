@@ -22,8 +22,8 @@ extern class Sheet
     
     public function getRow(id:Int):Row;
     
-    @:overload(function(includer:Includer, callBack:Row->Int->Void):Void{}) 
-    public function eachRow(callBack:Row->Int->Void):Void;  
+    @:overload(function(callBack:Row->Int->Void):Void{})
+    public function eachRow(includer:Includer, callBack:Row->Int->Void):Void;  
     
     public function mergeCells(mergeCellsNames:String):Void;
     public function unMergeCells(mergedCellName:String):Void;

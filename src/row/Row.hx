@@ -21,8 +21,8 @@ extern class Row extends Style
     @:overload(function(name:String):Cell{})
     public function getCell(id:Int):Cell;
     
-    @:overload(function(includer:Includer, callBack:Cell->Int->Void):Void{})
-    public function eachCell(callBack:Cell->Int->Void):Void;
+    @:overload(function(callBack:Cell->Int->Void):Void{})
+    public function eachCell(includer:Includer, callBack:Cell->Int->Void):Void;
     
     public function commit():Void;
 }
