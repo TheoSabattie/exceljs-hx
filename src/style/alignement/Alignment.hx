@@ -4,7 +4,7 @@ package style.alignement;
  * @author Théo Sabattié
  */
 
-typedef Alignement =
+typedef Alignment =
 {
     @:optional var horizontal:Horizontal;
     @:optional var vertical:Vertical;
