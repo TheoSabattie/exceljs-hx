@@ -13,7 +13,7 @@ extern class Column extends Style
     
     public var header:String;
 	public var key:String;
-    public var width:Int;
+    public var width:Float;
     public var hidden:Bool;
     
     @:overload(function(includer:Includer, callBack:Cell->Int->Void):Void{})
