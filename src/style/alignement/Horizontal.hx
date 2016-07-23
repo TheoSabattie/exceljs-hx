@@ -4,7 +4,7 @@ package style.alignement;
  * ...
  * @author Théo Sabattié
  */
-@:enum abstract Horizonal(String) from String to String {
+@:enum abstract Horizontal(String) from String to String {
     var LEFT              = "left";
     var CENTER            = "center";
     var RIGHT             = "right";
