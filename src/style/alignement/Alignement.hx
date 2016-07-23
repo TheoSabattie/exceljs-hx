@@ -6,10 +6,10 @@ package style.alignement;
 
 typedef Alignement =
 {
-    var horizontal:Horizonal;
-    var vertical:Vertical;
-    var wrapText:Bool;
-    var indent:Int;
-    var readingorder:ReadingOrder;
-    var textrotation:Dynamic; // Int or "vertical"
+    @:optional var horizontal:Horizontal;
+    @:optional var vertical:Vertical;
+    @:optional var wrapText:Bool;
+    @:optional var indent:Int;
+    @:optional var readingorder:ReadingOrder;
+    @:optional var textrotation:Dynamic; // Int or "vertical"
 }
