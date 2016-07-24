@@ -16,7 +16,7 @@ extern class Style
     
     public var numFmt:String;
     public var font:Font;
-    public var alignment(never, default):Alignment;
+    public var alignment:Alignment;
     public var border:Borders;
     public var fill:Fill;
 
