@@ -17,5 +17,5 @@ typedef Font =
     @:optional var italic:Bool;
     @:optional var strike:Bool;
     @:optional var outline:Bool;
-    @:optional var color:style.Color;
+    @:optional var color:Color;
 }
