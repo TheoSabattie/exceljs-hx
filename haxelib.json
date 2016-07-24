@@ -5,7 +5,7 @@
 	"description": "Haxe externs for ExcelJs (nodejs)",
 	"contributors": ["theo_sabattie"],
 	"releasenote": "Update Column",
-	"version": "0.11.0",
+	"version": "0.11.1",
 	"url": "https://github.com/TheoSabattie/exceljs-hx",
     "targets":["js"],
     "classPath": "src",
