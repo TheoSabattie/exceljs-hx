@@ -15,8 +15,16 @@ extern class Workbook
     public var lastModifiedBy:String;
     public var created:Date;
     public var modified:Date;
+    public var definedNames(default, never):Dynamic;
+    public var model:Dynamic;
+    public var xlsx(default, never):XLSX;
+    public var csv(default, never):CSV;
+    public var nextId(default, never):Int;
     
     public function addWorksheet(name:String, ?tabColor:String):Sheet;
+    
+    @:overload (function (id:Int):Void)
+    public function removeWorksheet(name:String):Void;
     
     /**
      * @param callBack params : Sheet and ID of sheet
@@ -25,7 +33,4 @@ extern class Workbook
     
     @:overload(function(id:Int):Sheet{})
     public function getWorksheet(name:String):Sheet;
-    
-    public var xlsx(default, null):XLSX;
-    public var csv(default, null):CSV;
 }
