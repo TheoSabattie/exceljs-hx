@@ -41,4 +41,5 @@ extern class Cell extends Style
     public function merge(cell:Cell):Void;
     public function unmerge(cell:Cell):Void;
     public function isMergedTo(cell:Cell):Void;
+    public function destroy():Void;
 }
