@@ -19,8 +19,8 @@ extern class Column extends Style
     public var worksheet(default, never):Sheet;
     public var letter(default, never):String;
     public var isCustomWidth(default, never):Bool;
-    public var defn:Dynamic;
-    public var headers(default, never):Array<Dynamic>;
+    public var defn:ColumnDef;
+    public var headers(default, never):Array<String>;
     public var headerCount(default, never):Int;
     public var isDefault(default, never):Bool;
     
