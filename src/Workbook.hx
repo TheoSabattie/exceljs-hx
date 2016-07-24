@@ -23,7 +23,7 @@ extern class Workbook
     
     public function addWorksheet(name:String, ?tabColor:String):Sheet;
     
-    @:overload (function (id:Int):Void)
+    @:overload(function (id:Int):Void{})
     public function removeWorksheet(name:String):Void;
     
     /**
