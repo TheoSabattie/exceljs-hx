@@ -8,8 +8,7 @@ import exceljs.style.font.Font;
 /**
  * ...
  * @author Théo Sabattié
- */
-extern class Style
+ */extern class Style
 {
 
     private function new();

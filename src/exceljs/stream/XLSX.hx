@@ -3,8 +3,7 @@ package exceljs.stream;
 /**
  * ...
  * @author Théo Sabattié
- */
-extern class XLSX
+ */extern class XLSX
 {
 
     private function new();

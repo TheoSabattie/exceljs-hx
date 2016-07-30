@@ -1,12 +1,11 @@
 package exceljs.stream;
-import exceljs.Sheet;
+import exceljs.doc.Worksheet;
 
 /**
  * ...
  * @author Théo Sabattié
- */
-extern class CSVReadPromise
+ */extern class CSVReadPromise
 {
     private function new();
-    public function then(callBack:Sheet->Void):Void;
+    public function then(callBack:Worksheet->Void):Void;
 }

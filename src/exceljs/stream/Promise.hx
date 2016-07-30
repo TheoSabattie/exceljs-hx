@@ -3,8 +3,7 @@ package exceljs.stream;
 /**
  * ...
  * @author Théo Sabattié
- */
-extern class Promise
+ */extern class Promise
 {
 
     private function new();

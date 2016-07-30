@@ -1,4 +1,5 @@
 package exceljs;
+import exceljs.doc.Workbook;
 
 /**
  * ...
