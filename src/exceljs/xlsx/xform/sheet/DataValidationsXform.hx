@@ -4,7 +4,7 @@ package exceljs.xlsx.xform.sheet;
  * ...
  * @author Théo Sabattié
  */
-class DataValidationsXform
+extern class DataValidationsXform
 {
 
     public function new() 

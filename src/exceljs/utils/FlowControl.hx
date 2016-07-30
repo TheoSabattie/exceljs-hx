@@ -4,7 +4,7 @@ package exceljs.utils;
  * ...
  * @author Théo Sabattié
  */
-class FlowControl
+extern class FlowControl
 {
 
     public function new() 

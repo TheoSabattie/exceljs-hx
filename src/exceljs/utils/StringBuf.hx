@@ -4,7 +4,7 @@ package exceljs.utils;
  * ...
  * @author Théo Sabattié
  */
-class StringBuf
+extern class StringBuf
 {
 
     public function new() 

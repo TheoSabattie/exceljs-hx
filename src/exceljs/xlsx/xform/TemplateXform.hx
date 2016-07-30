@@ -4,7 +4,7 @@ package exceljs.xlsx.xform;
  * ...
  * @author Théo Sabattié
  */
-class TemplateXform
+extern class TemplateXform
 {
 
     public function new() 

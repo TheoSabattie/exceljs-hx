@@ -5,7 +5,7 @@ import exceljs.doc.Workbook;
  * ...
  * @author Théo Sabattié
  */
-class Main
+extern class Main
 {
     public static function main():Void {
        trace("coucou"); 

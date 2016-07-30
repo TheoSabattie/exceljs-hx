@@ -4,7 +4,7 @@ package exceljs.xlsx.xform.book;
  * ...
  * @author Théo Sabattié
  */
-class WorkbookXform
+extern class WorkbookXform
 {
 
     public function new() 

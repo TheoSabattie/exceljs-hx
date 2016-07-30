@@ -4,7 +4,7 @@ package exceljs.xlsx.xform.core;
  * ...
  * @author Théo Sabattié
  */
-class ContentTypesXform
+extern class ContentTypesXform
 {
 
     public function new() 

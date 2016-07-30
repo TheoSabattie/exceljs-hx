@@ -4,7 +4,7 @@ package exceljs.xlsx.xform;
  * ...
  * @author Théo Sabattié
  */
-class CompositeXform
+extern class CompositeXform
 {
 
     public function new() 

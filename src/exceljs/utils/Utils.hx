@@ -4,7 +4,7 @@ package exceljs.utils;
  * ...
  * @author Théo Sabattié
  */
-class Utils
+extern class Utils
 {
 
     public function new() 

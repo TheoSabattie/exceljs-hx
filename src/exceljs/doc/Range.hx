@@ -4,7 +4,7 @@ package exceljs.doc;
  * ...
  * @author Théo Sabattié
  */
-class Range
+extern class Range
 {
 
     public function new() 

@@ -4,7 +4,7 @@ package exceljs.xlsx.xform.core;
  * ...
  * @author Théo Sabattié
  */
-class RelationshipXform
+extern class RelationshipXform
 {
 
     public function new() 

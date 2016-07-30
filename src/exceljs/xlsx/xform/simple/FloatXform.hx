@@ -4,7 +4,7 @@ package exceljs.xlsx.xform.simple;
  * ...
  * @author Théo Sabattié
  */
-class FloatXform
+extern class FloatXform
 {
 
     public function new() 

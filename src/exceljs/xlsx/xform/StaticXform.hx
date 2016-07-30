@@ -4,7 +4,7 @@ package exceljs.xlsx.xform;
  * ...
  * @author Théo Sabattié
  */
-class StaticXform
+extern class StaticXform
 {
 
     public function new() 

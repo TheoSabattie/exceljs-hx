@@ -4,7 +4,7 @@ package exceljs.stream.xlsx;
  * ...
  * @author Théo Sabattié
  */
-class HyperlinkReader
+extern class HyperlinkReader
 {
 
     public function new() 

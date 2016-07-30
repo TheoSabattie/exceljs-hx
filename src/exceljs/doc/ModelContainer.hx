@@ -4,7 +4,7 @@ package exceljs.doc;
  * ...
  * @author Théo Sabattié
  */
-class ModelContainer
+extern class ModelContainer
 {
 
     public function new() 

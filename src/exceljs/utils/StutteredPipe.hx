@@ -4,7 +4,7 @@ package exceljs.utils;
  * ...
  * @author Théo Sabattié
  */
-class StutteredPipe
+extern class StutteredPipe
 {
 
     public function new() 

@@ -4,7 +4,7 @@ package exceljs.xlsx.xform.strings;
  * ...
  * @author Théo Sabattié
  */
-class SharedStringsXform
+extern class SharedStringsXform
 {
 
     public function new() 

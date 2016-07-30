@@ -4,7 +4,7 @@ package exceljs.xlsx;
  * ...
  * @author Théo Sabattié
  */
-class RelType
+extern class RelType
 {
 
     public function new() 

@@ -4,7 +4,7 @@ package exceljs.xlsx.xform.style;
  * ...
  * @author Théo Sabattié
  */
-class BorderXform
+extern class BorderXform
 {
 
     public function new() 

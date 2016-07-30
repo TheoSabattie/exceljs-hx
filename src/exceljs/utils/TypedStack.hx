@@ -4,7 +4,7 @@ package exceljs.utils;
  * ...
  * @author Théo Sabattié
  */
-class TypedStack
+extern class TypedStack
 {
 
     public function new() 

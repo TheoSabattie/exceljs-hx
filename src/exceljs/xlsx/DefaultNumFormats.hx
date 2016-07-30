@@ -4,7 +4,7 @@ package exceljs.xlsx;
  * ...
  * @author Théo Sabattié
  */
-class DefaultNumFormats
+extern class DefaultNumFormats
 {
 
     public function new() 

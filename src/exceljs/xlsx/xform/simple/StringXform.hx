@@ -4,7 +4,7 @@ package exceljs.xlsx.xform.simple;
  * ...
  * @author Théo Sabattié
  */
-class StringXform
+extern class StringXform
 {
 
     public function new() 

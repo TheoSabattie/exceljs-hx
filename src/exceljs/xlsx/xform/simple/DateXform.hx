@@ -4,7 +4,7 @@ package exceljs.xlsx.xform.simple;
  * ...
  * @author Théo Sabattié
  */
-class DateXform
+extern class DateXform
 {
 
     public function new() 

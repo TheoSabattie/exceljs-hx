@@ -4,7 +4,7 @@ package exceljs.utils;
  * ...
  * @author Théo Sabattié
  */
-class XmlStream
+extern class XmlStream
 {
 
     public function new() 

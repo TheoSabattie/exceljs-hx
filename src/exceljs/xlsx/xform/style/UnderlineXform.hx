@@ -4,7 +4,7 @@ package exceljs.xlsx.xform.style;
  * ...
  * @author Théo Sabattié
  */
-class UnderlineXform
+extern class UnderlineXform
 {
 
     public function new() 

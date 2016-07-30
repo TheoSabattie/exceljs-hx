@@ -4,7 +4,7 @@ package exceljs.xlsx.xform.sheet;
  * ...
  * @author Théo Sabattié
  */
-class HyperlinkMap
+extern class HyperlinkMap
 {
 
     public function new() 

@@ -4,7 +4,7 @@ package exceljs.utils;
  * ...
  * @author Théo Sabattié
  */
-class AutoDrain
+extern class AutoDrain
 {
 
     public function new() 

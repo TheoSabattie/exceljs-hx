@@ -10,6 +10,6 @@
     "targets":["js"],
     "classPath": "src",
 	"dependencies": {
-
+        "hxnodejs" : ""
 	}
 }

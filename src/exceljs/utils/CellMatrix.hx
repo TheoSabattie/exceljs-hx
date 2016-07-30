@@ -4,7 +4,7 @@ package exceljs.utils;
  * ...
  * @author Théo Sabattié
  */
-class CellMatrix
+extern class CellMatrix
 {
 
     public function new() 

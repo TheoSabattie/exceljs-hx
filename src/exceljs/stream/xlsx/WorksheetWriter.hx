@@ -4,7 +4,7 @@ package exceljs.stream.xlsx;
  * ...
  * @author Théo Sabattié
  */
-class WorksheetWriter
+extern class WorksheetWriter
 {
 
     public function new() 
