@@ -8,3 +8,7 @@ exceljs-hx on **haxelib**:
 ```
 haxelib install exceljs-hx
 ```
+
+## TODO
+- Add documentation  
+- Update for stream
